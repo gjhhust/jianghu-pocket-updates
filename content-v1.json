@@ -1,0 +1,390 @@
+{
+  "schema": 1,
+  "revision": 1,
+  "min_app_code": 3,
+  "updated_at": "2026-11-06",
+  "guide": {
+    "lures": [
+      {
+        "id": "t",
+        "name": "2g 根钓钩 × 绿色T尾",
+        "tag": "真正的日常主力",
+        "kind": "tail",
+        "category": "slow",
+        "weight": "1.5 / 2 / 2.5 / 3.5g",
+        "depth": "浅层至近底",
+        "why": "有自然的摆尾，既能找鱼，也能缓慢穿过草边和坡坎；单钩相对简单、易练习。",
+        "where": "小湖、开阔近岸、草边、溪流缓流区",
+        "method": [
+          "抛出后先数1–3秒，绷住虚线",
+          "慢速匀收3–5圈，感觉尾巴自然摆动",
+          "停0.5–1秒，轻抬竿尖，再继续"
+        ],
+        "swap": "连续有跟饵不咬 → 改白色针尾；水太深或风太大 → 加重到2.5–3.5g。",
+        "caution": "根钓钩与软饵要按钩号匹配；尾巴不会摆可能是拖太慢或装歪。",
+        "catch": "白条（大个体）／马口／小型掠食鱼",
+        "color": "#A1BA77"
+      },
+      {
+        "id": "needle",
+        "name": "白色针尾 × 根钓钩",
+        "tag": "轻口、慢攻",
+        "kind": "needle",
+        "category": "slow",
+        "weight": "1.5–2.5g",
+        "depth": "中层 / 近底",
+        "why": "针尾振幅很小，模仿没有高速逃窜的小鱼。鱼有戒心、追饵却不吃时往往比强震动饵更值得试。",
+        "where": "清水近岸、结构侧面、追饵不咬的位置",
+        "method": [
+          "抛出，半绷线控住自然下沉",
+          "慢收2圈，竿尖轻轻抖1–2下",
+          "停1–2秒，再慢收；近底时小跳"
+        ],
+        "swap": "下沉慢到摸不到水层 → 加到2.5或3.5g；持续没有鱼讯 → 优先找新位置。",
+        "caution": "针尾不是T尾，不需要频繁大幅抽竿；软饵别装弯。",
+        "catch": "小型鱼／鳜鱼（结构区）／鲈鱼",
+        "color": "#E2E3D9"
+      },
+      {
+        "id": "curly",
+        "name": "墨绿卷尾 × 根钓钩",
+        "tag": "低速贴底",
+        "kind": "curly",
+        "category": "slow",
+        "weight": "2–3.5g",
+        "depth": "中下层 / 近底",
+        "why": "卷尾在较慢的速度下也容易产生波动，适合让拟饵长时间停留在有遮蔽的区域。",
+        "where": "石头边、坡脚、桥基附近且确认允许抛投的水域",
+        "method": [
+          "先试探底部是否容易挂钩",
+          "慢拖20–40cm，轻提竿尖",
+          "控线下落，停1–2秒，重复"
+        ],
+        "swap": "连续挂底 → 减轻或改防挂配置；鱼追快饵 → 换T尾、VIB。",
+        "caution": "乱石中避免硬拉；不同尾型的起摆速度有差别。",
+        "catch": "鳜鱼／鲈鱼／底层鱼",
+        "color": "#385845"
+      },
+      {
+        "id": "potato",
+        "name": "土豆软饵 × 曲柄钩",
+        "tag": "草边 / 障碍",
+        "kind": "potato",
+        "category": "structure",
+        "weight": "依钩与是否配铅而定",
+        "depth": "浅层 / 近底",
+        "why": "曲柄钩可把钩尖轻藏于软饵，降低穿草、穿树枝时挂住的概率。",
+        "where": "密草外沿、倒树边、浅水障碍",
+        "method": [
+          "先检查钩门是否被短粗软饵堵住",
+          "缓慢送入障碍边缘，等待自然下落",
+          "轻拉20cm、停2–4秒，再轻拉"
+        ],
+        "swap": "鱼口频繁但不中鱼 → 检查露钩空间与钩号；水体开阔 → 换T尾搜索。",
+        "caution": "不是所有“土豆”都适合所有曲柄钩；无铅版本抛投很近。",
+        "catch": "鲈鱼／黑鱼（有草时）",
+        "color": "#9C9D69"
+      },
+      {
+        "id": "vib25",
+        "name": "2.5g 单钩 VIB",
+        "tag": "轻量找鱼",
+        "kind": "vib",
+        "category": "search",
+        "weight": "2.5g",
+        "depth": "中层 / 中下层",
+        "why": "小体积、低频繁换饵成本，在中层快速确认鱼是不是愿意追逐移动物体。",
+        "where": "小湖、开阔近岸、溪河缓流，不易挂底的水",
+        "method": [
+          "抛出，先数1–2秒开始收",
+          "匀收4–6圈，以能感到振动为准",
+          "略慢收1秒，再恢复，逐竿试不同下沉时间"
+        ],
+        "swap": "想投更远且竿子适配 → 改7g铁板；有追饵不咬 → 改针尾。",
+        "caution": "若是较小的硬饵，过快摇轮可能容易出水；避免直接沉到底。",
+        "catch": "小型翘嘴／青梢类／小型掠食鱼",
+        "color": "#89C0C2"
+      },
+      {
+        "id": "minnow",
+        "name": "2.5g 缓沉米诺",
+        "tag": "近岸抽停",
+        "kind": "minnow",
+        "category": "search",
+        "weight": "2.5g",
+        "depth": "浅层 / 中层",
+        "why": "外形像小鱼，轻抽后的短暂停顿能让谨慎的捕食鱼有时间判断并接近。",
+        "where": "岸边小鱼活动带、草缘、河湾流速较小处",
+        "method": [
+          "抛出后短暂下沉，保持虚线可控",
+          "慢收2–3圈，轻抽1下（5–15cm）",
+          "停1–2秒，继续；停顿时仍缓慢下沉"
+        ],
+        "swap": "鱼在水面连续炸水 → 浮水铅笔；鱼不追 → 白针尾；风大抛不到 → 改VIB。",
+        "caution": "这颗是“缓沉”，不是“浮水”或“悬浮”；停得越久不一定越好。",
+        "catch": "马口／小翘嘴／鲈鱼",
+        "color": "#ABC9D2"
+      },
+      {
+        "id": "metal7",
+        "name": "7g 微物铁板",
+        "tag": "风中远投",
+        "kind": "metal",
+        "category": "search",
+        "weight": "7g",
+        "depth": "中层 / 深层",
+        "why": "重量集中，侧风中更容易覆盖远距离，并可快速改变下沉深度。",
+        "where": "大湖、河流开阔段、风中需要更远投时",
+        "method": [
+          "先确认竿子饵重上限 ≥ 7g",
+          "抛远后先试下沉约2秒，中速匀收5–8圈",
+          "小提20–30cm，控线下落，重复；再尝试更深层"
+        ],
+        "swap": "水草多、频繁挂底 → 改较浅层VIB或T尾；追饵不吃 → 减速或改针尾。",
+        "caution": "7g可能超过部分UL竿上限；要遵守本水域钩尖数量要求。",
+        "catch": "翘嘴／开阔水域掠食鱼",
+        "color": "#AEB7B9"
+      },
+      {
+        "id": "vib5",
+        "name": "5g VIB · 三本钩版",
+        "tag": "需先核对钩具规定",
+        "kind": "vib",
+        "category": "search",
+        "weight": "5g",
+        "depth": "中层 / 中下层",
+        "why": "振动更明显、投得相对更远，但多钩尖与挂底风险会显著增加。",
+        "where": "仅在钓点明确允许此钩具配置、且水底干净时",
+        "method": [
+          "先核对钩尖数量是否合法",
+          "合规时从短下沉开始，中速匀收4–6圈",
+          "暂停或改变速度，不必每次触底"
+        ],
+        "swap": "存在钩具限制 → 直接改2.5g单钩VIB或铅头钩软饵。",
+        "caution": "三本钩是三个钩尖；湖北禁捕水域的相关限制不能忽视，东湖按实际管理规定。",
+        "catch": "翘嘴类／鲈鱼",
+        "color": "#D3B78B",
+        "restricted": true
+      },
+      {
+        "id": "pencil",
+        "name": "浮水微物铅笔",
+        "tag": "水面有鱼才上",
+        "kind": "pencil",
+        "category": "top",
+        "weight": "按实物",
+        "depth": "水面",
+        "why": "只扫水表，适合看见鱼顶水、炸水时模仿在逃的小鱼；能直接看到鱼是否追逐。",
+        "where": "风小的浅湾、草外缘、水面明显有鱼情的岸段",
+        "method": [
+          "抛出，静置1秒观察",
+          "竿尖小点＋回收虚线，形成左右走狗",
+          "摆3–5次停2秒；看见追逐再调节速度"
+        ],
+        "swap": "水面安静超过数分钟 → 停止折腾铅笔，改米诺或软饵探中层。",
+        "caution": "持续绷紧线会让铅笔只往前走；强风更难做动作。",
+        "catch": "小翘嘴／鲈鱼／水面活跃鱼",
+        "color": "#EEBE89"
+      },
+      {
+        "id": "zdog",
+        "name": "3g 之字狗",
+        "tag": "另一种走狗",
+        "kind": "zdog",
+        "category": "top",
+        "weight": "3g",
+        "depth": "通常为水面（实物核实）",
+        "why": "若实物为浮水走狗款，和浮水微物铅笔覆盖场景高度重合，只选其中更容易走出Z字的一个。",
+        "where": "水面炸水、安静湾内、清晨或傍晚有饵鱼时",
+        "method": [
+          "让饵落水后短暂停顿",
+          "竿尖轻点一次，就回一点虚线",
+          "形成左右Z字，连续3–5下后停顿"
+        ],
+        "swap": "两个水面饵不需要轮番试；看不到水表鱼情就改米诺。",
+        "caution": "“之字狗”在商品命名上有差异，请按实物是否浮水、是否带舌板确认。",
+        "catch": "小翘嘴／水面捕食鱼",
+        "color": "#E4A89C"
+      },
+      {
+        "id": "tractor",
+        "name": "6g 拖拉机",
+        "tag": "先认清实物",
+        "kind": "tractor",
+        "category": "top",
+        "weight": "6g",
+        "depth": "表层 / 中上层（依结构）",
+        "why": "“拖拉机”可能指水面螺旋桨饵，也可能指有叶片的钢丝复合饵；两者的工作深度和速度不同。",
+        "where": "螺旋桨款用于水表活跃区；钢丝叶片款用于草边/浑水",
+        "method": [
+          "先辨认：尾部螺旋桨？还是V形钢丝＋叶片？",
+          "螺旋桨款：匀收，让水面持续出细小水花",
+          "钢丝叶片款：慢匀收，让叶片稳定转动，不必暴抽"
+        ],
+        "swap": "无表层鱼或没有明显障碍时，先改T尾/VIB，不用为了用拖拉机而硬钓。",
+        "caution": "若装有多枚钩或超出竿子适投范围，不要直接使用。",
+        "catch": "草边鲈鱼／中上层活跃鱼",
+        "color": "#D8A85A"
+      },
+      {
+        "id": "dropshot",
+        "name": "倒钓钓组",
+        "tag": "原地慢诱",
+        "kind": "dropshot",
+        "category": "structure",
+        "weight": "铅坠按水深/流速选择",
+        "depth": "近底上方",
+        "why": "让铅坠贴底、软饵悬在其上方，目标是在已知有鱼的位置慢慢诱，而不是快速寻找鱼。",
+        "where": "清晰结构、深浅交界、鱼贴底却不追饵",
+        "method": [
+          "钩在上、坠在下，先触底",
+          "原地微抖3–5秒，尽量不拖动铅坠",
+          "慢移20–50cm，再停；维持饵离底位置"
+        ],
+        "swap": "水域很大、完全不知道鱼在哪 → 先用VIB/T尾找鱼再用倒钓。",
+        "caution": "仅按当地合法钩数配置；急流中要加重才能控住底。",
+        "catch": "鲈鱼／鳜鱼／谨慎底层鱼",
+        "color": "#AB9B7E"
+      },
+      {
+        "id": "fly",
+        "name": "飞蝇钩（你已上白条）",
+        "tag": "稳定建立鱼感",
+        "kind": "fly",
+        "category": "top",
+        "weight": "依助投钓组而定",
+        "depth": "水面 / 浅层",
+        "why": "对已经看到吃虫的白条尤其有效；它更小、更接近这些鱼日常捕食的昆虫尺度。",
+        "where": "水面细碎啄食、白条密集的小湾或缓流",
+        "method": [
+          "先观察白条啄食位置",
+          "让飞蝇自然停留或轻轻短拖",
+          "出现啄口及时、轻柔地收紧线"
+        ],
+        "swap": "看不到小鱼吃虫或想找更大对象鱼 → 换米诺/软饵，先找饵鱼群。",
+        "caution": "注意线组和助投器的搭配；别把白条不吃硬饵误判为手法完全错误。",
+        "catch": "白条／小型溪流鱼",
+        "color": "#A0AFC1"
+      }
+    ],
+    "fish": [
+      {
+        "id": "baitfish",
+        "name": "白条",
+        "latin": "Hemiculter leucisculus",
+        "type": "小型群游鱼 · 表中上层",
+        "desc": "常在近表层集群活动，啄食昆虫及小型食物；你已经用飞蝇钩验证过它会进食。",
+        "find": "浅湾、小鱼聚集带、缓流、水面细碎啄食点",
+        "sign": "小而密的水花、连续轻啄，没有明显大鱼炸水",
+        "lure": "飞蝇钩；极小针尾可试，但未必比飞蝇更有效",
+        "key": "白条常常是“发现饵鱼群”的线索，而不意味着附近必定有大鱼。",
+        "photo": "Hemiculter_leucisculus.JPG",
+        "author": "A. C. Tatarinov",
+        "license": "CC0 1.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hemiculter_leucisculus.JPG",
+        "accent": "#A2C0CC",
+        "water": "湖 / 河 / 缓流",
+        "external": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Hemiculter_leucisculus.JPG/640px-Hemiculter_leucisculus.JPG"
+      },
+      {
+        "id": "makou",
+        "name": "马口鱼",
+        "latin": "Opsariichthys bidens",
+        "type": "溪流型中上层掠食鱼",
+        "desc": "偏好流动水体，通常利用石头、流速交界等形成的觅食位置，伏击被水流带来的小猎物。",
+        "find": "有氧的溪流、急缓流交界、石头侧后方；不是所有东湖岸段的常见对象",
+        "sign": "清流小鱼闪动、石后小鱼短冲、流头有追逐",
+        "lure": "1.5–2g T尾、2.5g缓沉米诺；如流速过强须能控层",
+        "key": "顺着“流的边缘”送饵，而不是一直横着急流死收。",
+        "photo": null,
+        "author": "Hanyang Ye",
+        "license": "CC BY-SA 3.0",
+        "source": "https://www.inaturalist.org/photos/2802299",
+        "external": "https://inaturalist-open-data.s3.amazonaws.com/photos/2802299/original.JPG",
+        "accent": "#E4B56D",
+        "water": "溪 / 河"
+      },
+      {
+        "id": "qiaozui",
+        "name": "翘嘴鲌",
+        "latin": "Culter alburnus",
+        "type": "开放水域追饵鱼 · 中上层",
+        "desc": "体型修长、嘴上翘，常追逐小型鱼类；成鱼捕食位置随饵鱼、水温、时段变化，不能永远认定贴水面。",
+        "find": "有饵鱼的湾口、岬角、风浪边、深浅交界",
+        "sign": "小鱼集中逃窜、较大炸水或有方向的追鱼",
+        "lure": "2.5g米诺、小VIB；远水且竿子适配可用7g铁板",
+        "key": "先定位饵鱼，再改变水层；风浪只是线索，鱼并非必在迎风岸。",
+        "photo": "Culter_alburnus_170416523.jpg",
+        "author": "陳達智",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Culter_alburnus_170416523.jpg",
+        "accent": "#B5C6C5",
+        "water": "湖 / 河 / 水库",
+        "external": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Culter_alburnus_170416523.jpg/640px-Culter_alburnus_170416523.jpg"
+      },
+      {
+        "id": "guiyu",
+        "name": "鳜鱼",
+        "latin": "Siniperca chuatsi",
+        "type": "底层伏击型 · 结构鱼",
+        "desc": "大口、斑驳体色，倾向利用障碍物隐蔽并伏击通过的小鱼，通常不需要你让饵一直高速移动。",
+        "find": "乱石外沿、坡脚、桥基、硬结构附近",
+        "sign": "不一定出现水表迹象，咬口可能是下落截口或突然的重量感",
+        "lure": "2–3.5g卷尾/针尾根钓钩；定点可试倒钓",
+        "key": "找结构、贴结构、慢通过；避免把饵硬塞进高挂底的石缝。",
+        "photo": "Siniperca_chuatsi.jpg",
+        "author": "Fredlyfish4",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Siniperca_chuatsi.jpg",
+        "accent": "#B4AB89",
+        "water": "湖 / 河 / 水库",
+        "external": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Siniperca_chuatsi.jpg/640px-Siniperca_chuatsi.jpg"
+      },
+      {
+        "id": "bass",
+        "name": "大口黑鲈",
+        "latin": "Micropterus salmoides",
+        "type": "结构与遮蔽相关 · 多水层",
+        "desc": "常与草缘、倒木、阴影和深浅变化有关；是外来鱼种，东湖是否在目标岸段可钓到不能预设。",
+        "find": "草外缘、倒木、码头阴影、软硬结构交接",
+        "sign": "草边追饵、浅水攻击、结构旁有鱼影",
+        "lure": "T尾、土豆软饵＋曲柄钩，近底可倒钓",
+        "key": "先想它从哪里埋伏、怎么出击，再把饵送过那个位置。",
+        "photo": "Largemouth-bass-20170129-cropped.jpg",
+        "author": "wsimms8518",
+        "license": "CC0 1.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Largemouth-bass-20170129-cropped.jpg",
+        "accent": "#9FB58B",
+        "water": "特定湖 / 塘",
+        "external": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Largemouth-bass-20170129-cropped.jpg/640px-Largemouth-bass-20170129-cropped.jpg"
+      },
+      {
+        "id": "snake",
+        "name": "乌鳢 / 黑鱼",
+        "latin": "Channa argus",
+        "type": "近草表层 / 浅水伏击",
+        "desc": "喜欢有植被和遮蔽的静水或缓流水域，活动和可攻击性在不同季节差异很大。",
+        "find": "浓草外缘、浅湾、浮叶植物边、静水隐蔽处",
+        "sign": "草边突然水花、鱼影慢巡、局部浅水惊鱼",
+        "lure": "小型土豆软饵＋合适曲柄钩可作观察与试探，但你现有饵并非专用黑鱼装备",
+        "key": "不是看见草就一定有黑鱼；先确认有鱼影或捕食迹象。",
+        "photo": "Northern_snakehead_fish_channa_argus.jpg",
+        "author": "Billings Brett / USFWS",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Northern_snakehead_fish_channa_argus.jpg",
+        "accent": "#8E9E72",
+        "water": "湖 / 塘 / 缓流",
+        "external": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Northern_snakehead_fish_channa_argus.jpg/640px-Northern_snakehead_fish_channa_argus.jpg"
+      }
+    ]
+  },
+  "home": {
+    "show_timer": true,
+    "show_insight": true
+  },
+  "rules": {
+    "revision": "20261106-1",
+    "low_light_bonus": 12,
+    "wind_penalty": 16
+  }
+}
