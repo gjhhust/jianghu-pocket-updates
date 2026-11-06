@@ -11,6 +11,6 @@
     "url": "https://github.com/gjhhust/jianghu-pocket-updates/releases/download/v0.4.1/jianghu-pocket.apk",
     "sha256": "901a000b840f6f0e04489487114789208591896791b84a7bdbe18eff84d93ae6",
     "size": 57968872,
-    "notes": "江湖路亚：高德地图与卫星、联合定位、窗口点击联动、新桌面卡片、立体生态鱼缸、饵盒试竿及拟饵实拍参考。"
+    "notes": "公开版不内置高德 Key，请在设置保存一次；覆盖升级保留本机 Key。包含国内地图/卫星、定位修复、窗口联动、桌面卡片和立体生态缸。"
   }
 }
