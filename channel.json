@@ -4,5 +4,13 @@
     "revision": 1,
     "url": "https://raw.githubusercontent.com/gjhhust/jianghu-pocket-updates/main/content-v1.json",
     "sha256": "d2cd53e03f88f32c501f0b8b06f28597695c4a8381ef6152f9c17569a4b856a4"
+  },
+  "apk": {
+    "version_code": 3,
+    "version_name": "0.2.0",
+    "url": "https://github.com/gjhhust/jianghu-pocket-updates/releases/download/v0.2.0/jianghu-pocket.apk",
+    "sha256": "6d34de973e5623b093e836676872d77471a065a131973b6eb18f2fa6886a6cd0",
+    "size": 5737882,
+    "notes": "天气式新首页、当前位置与城市/钓点切换、完整多日预报、应用内更新与资料刷新。"
   }
 }
